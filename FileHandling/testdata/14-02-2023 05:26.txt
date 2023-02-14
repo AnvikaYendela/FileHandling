@@ -1,0 +1,3 @@
+Created directory
+created file name with todays date and time
+using write and writelines commands to insert text into file

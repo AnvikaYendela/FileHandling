@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="1" tests="3" time="0.041" timestamp="2023-02-14T15:30:28.939548" hostname="atmecsadmins-MacBook-Pro.local"><testcase classname="test_assertions" name="test_skipper" time="0.000"><skipped type="pytest.skip" message="This is going to be skipped">/Users/anvika.yendela/PycharmProjects/pythonProject/FileHandling/test_assertions.py:4: This is going to be skipped</skipped></testcase><testcase classname="test_assertions" name="test_known_bug" time="0.001"><failure message="assert 7 == 8">def test_known_bug():
+&gt;       assert 7 == 8
+E       assert 7 == 8
+
+test_assertions.py:11: AssertionError</failure></testcase><testcase classname="test_assertions" name="test_fixed_bug" time="0.000" /></testsuite></testsuites>
